@@ -15,9 +15,14 @@ export const workerSchema = new Schema({
     },
     role: {
         type: String,
-        require: true
+        require: true,
+        default: "health"
     },
     position: {
+        type: String,
+        require: true
+    },
+    password: {
         type: String,
         require: true
     }
