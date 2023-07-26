@@ -10,7 +10,7 @@ const app = express();
 app.use(express.json());
 app.use(bodyParser.urlencoded({extended: false}));
 
-const PORT = 3000;
+const PORT = 8000;
 
 app.use(workerRoutes);
 app.use(patientRoutes);
