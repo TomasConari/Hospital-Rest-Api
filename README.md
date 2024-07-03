@@ -1,5 +1,5 @@
-# apiRest fourth Module Proyect
-apiRest with NodeJS in MongoDB
+# Hospital REST API
+Rest Api with NodeJS and MongoDB
 
 How to see it?
 
@@ -10,7 +10,7 @@ How to see it?
 
 Project Info:
 
-    This project is a Restful API that runs on a local MongoDB database.
+    This project is a REST API for a hospital that stores its data in a MongoDB database.
     These were the project specifications:
     
       -It is required to create the system for a hospital.
