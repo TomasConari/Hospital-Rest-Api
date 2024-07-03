@@ -1,5 +1,6 @@
 # Hospital REST API
 Rest Api with NodeJS and MongoDB
+I'm currently working on getting it to run inside a Docker container.
 
 How to see it?
 
